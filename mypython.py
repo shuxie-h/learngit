@@ -20,4 +20,8 @@ if __name__ == "__main__":
     result = loop.run_until_complete(action_cz.report_data_main())
 
 
+
+print("hello world")
+print("hello world")
+
     
